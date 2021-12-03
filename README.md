@@ -4,8 +4,7 @@ This repository contains the replication package for my ICSE'22 paper along with
 
 ![download](https://user-images.githubusercontent.com/14366682/144515270-0c4f8b7f-4220-4110-9896-50f2c3859151.png)
 
-![approach-1](https://user-images.githubusercontent.com/14366682/144515416-ea9f5b3f-b21c-4834-bc20-8b459797b148.png)
-
+![approach1](https://user-images.githubusercontent.com/14366682/144684413-8d56af42-dc5c-4d4a-8dda-10947c86516b.png)
 
 ## Abstract
 Mobile application (app) reviews contain valuable information for app developers. A plethora of supervised and unsupervised techniques have been proposed in the literature to synthesize useful user feedback from app reviews. However, traditional supervised classification algorithms require extensive manual effort to label ground truth data, while unsupervised text mining techniques, such as topic models, often produce suboptimal results due to the sparsity of useful information in the reviews. To overcome these limitations, in this paper, we propose a fully automatic and unsupervised approach for extracting useful information from mobile app reviews. The proposed approach is based on keyATM, a keyword-assisted approach for topic modeling. keyATM overcomes the problem of data sparsity by using seeding keywords extracted directly from the review corpus. These keywords are then used to generate meaningful domain-specific topics. Our approach is evaluated over two datasets of mobile app reviews sampled from the domains of Investing
